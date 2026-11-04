@@ -1,0 +1,6 @@
+{
+  "name": "douyin-comments-local",
+  "version": "1.0.0",
+  "description": "读取抖音单条视频的页面可见评论和回复，去重导出并分析观众关切。",
+  "skills": "./skills/"
+}

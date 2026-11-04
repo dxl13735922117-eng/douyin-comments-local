@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.internal/
+captures/
+outputs/
+*.mp4
+*.log
+.env
+.env.*

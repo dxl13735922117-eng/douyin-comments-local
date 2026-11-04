@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "douyin-comments-local",
+  "version": "1.0.0",
+  "description": "Read visible Douyin comments and expanded replies through the user's connected local Chrome, then export deduplicated Markdown and JSON.",
+  "license": "MIT",
+  "repository": "https://github.com/dxl13735922117-eng/douyin-comments-local"
+}

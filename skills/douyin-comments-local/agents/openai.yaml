@@ -1,0 +1,6 @@
+interface:
+  display_name: "抖音评论助手 · 本机 Chrome"
+  short_description: "读取单条抖音视频的可见评论和楼中楼，去重导出并分析观众关切"
+  default_prompt: "使用 $douyin-comments-local 读取这条抖音视频的评论和可展开回复，去重导出 Markdown、JSON，按质疑、疑问、使用经验、产品建议分析，并说明实际读取范围。"
+policy:
+  allow_implicit_invocation: true
